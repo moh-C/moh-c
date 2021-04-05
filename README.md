@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+<img src="https://github.com/moh-C/github-stats./blob/master/generated/overview.svg" />
+
+<img src="https://github.com/moh-C/github-stats./blob/master/generated/languages.svg" />
+
 <!--
 **moh-C/moh-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
