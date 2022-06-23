@@ -4,10 +4,6 @@
 <img src="https://github.com/moh-C/github-stats./blob/master/generated/overview.svg"/>
 <img src="https://github.com/moh-C/github-stats./blob/master/generated/languages.svg" />
 
-- 🔭 I’m currently working on AI-enabled Wireless Networks
-- 🌱 I’m currently learning Digital Communications and Communication Circuits!
-- 👯 I’m looking to collaborate on AI-enabled Wireless Networks!
-
 <!--
 **moh-C/moh-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
